@@ -1,0 +1,10 @@
+Default:
+  name: '&cDefault Sword'
+  material: DIAMOND_SWORD
+  lore:
+    - '&a&lTHIS IS DEFAULT SWORD''
+  customModel: 1
+  enchants:
+    - 'DAMAGE_ALL:5'
+    - 'DURABILITY:3'
+  unbreakable: true

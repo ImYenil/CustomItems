@@ -1,0 +1,10 @@
+name: CustomItems
+main: net.choco.customitems.Main
+version: 1.0
+api-version: 1.14
+author: chochoco4777
+commands:
+  customitems:
+    aliases:
+      - ci
+    description: CustomItems Main Command
